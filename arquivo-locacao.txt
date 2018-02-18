@@ -1,0 +1,3 @@
+Premium:2: 20fev2018(ter), 21fev2018(qua), 24fev2018(sab)
+normal:2: 24fev2018(sab), 25fev2018(dom), 26fev2018(seg), 27fev2018(ter)
+normal:6: 20fev2018(ter), 21fev2018(qua), 24fev2018(sab)
