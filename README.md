@@ -8,3 +8,5 @@ QtdPassageiros: 1 a 7
 Data(x): Datas para locação seguindo o padrão - 20Fev2018(ter)
 
 O sistema retornará a melhor opção de veículo disponível
+
+O arquivo com nome arquivo-locacao.txt contém um conteúdo já com o formato acima
